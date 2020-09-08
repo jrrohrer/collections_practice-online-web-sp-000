@@ -42,4 +42,5 @@ def kesha_maker(array)
     string_array[2] = "$"
     new_array << string_array.join
   end
+  new_array
 end
