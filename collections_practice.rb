@@ -5,5 +5,7 @@ end
 def sort_array_desc(array)
   array.sort do |a, b|
     if a == b
+      0 
+    elsif 
   end
 end
